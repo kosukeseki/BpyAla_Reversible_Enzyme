@@ -1,7 +1,7 @@
 # BpyAla_Reversible_Enzyme
 Data analysis codes for analyzing enzyme kinetic data in 384-well plates. 
 
-This code was run on Widows 10 Home Edition, 64-bit operating system. Code was written on Spyder 3.3.2 running IPython 7.2.0 using Python 3.7.1. Code was also tested on Jupyter Notebook and was able to replicate the results. Python was installed using Anaconda. 
+This code was run on Widows 10 Home Edition, 64-bit operating system. Code was written on Spyder 3.3.2 running IPython 7.2.0 using Python 3.7.1. Code was also tested on Jupyter Notebook by a seperate user and was able to replicate the results. Python was installed using Anaconda. 
 
 To run data, place all files included in this repository to an arbitrary directory. Open any of the .py files on Spyder 3.3.2 and run script. 
 
