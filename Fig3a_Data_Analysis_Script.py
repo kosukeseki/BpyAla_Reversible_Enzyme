@@ -25,10 +25,10 @@ plt.rcParams['ytick.major.width'] = 1
 plt.rcParams["figure.figsize"] = [4.25,4.25]
 
 #importing data and tidying it
-rfudf = pd.read_csv('Fig3_Formatted_Raw_Data.csv')
+rfudf = pd.read_csv('Fig3a_Formatted_Raw_Data.csv')
 ##col_info is a csv that specifies the reaction in each well
 ##i.e. A1 - this enzyme, with this concentration of metal, this rep#
-col_info = pd.read_csv('Fig3_Well_Info.csv')
+col_info = pd.read_csv('Fig3a_Well_Info.csv')
 #Arranging into tidydata format
 melt = rfudf.melt(id_vars = 'Time', 
                   var_name = 'Well',
